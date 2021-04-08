@@ -80,7 +80,6 @@ body {
 #navbar ul li:hover ul li:hover span {
   background: var(--secondary-color);
 }
-
 #showcase {
   display: flex;
   flex-direction: column;
